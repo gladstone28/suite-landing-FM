@@ -73,10 +73,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1: Getting started with Figma: A beginner's guide](https://www.youtube.com/watch?v=eZJOSK4gXl4) - This helped me to understsnf Figma. Please watch.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 1: Getting started with Figma: A beginner's guide](https://www.youtube.com/watch?v=eZJOSK4gXl4) - This helped me to understand Figma. Please watch.
+- [Example resource 2:Master Figma UI Design in 15 Minutes | This Tutorial Is For You!](https://www.youtube.com/watch?v=uQsyobT2Rv8&t=302s) - Z. I'd recommend this to anyone still learning this concept.
+- [Example resource 3:Learn Figma in 2024 | Beginner tutorial](https://www.youtube.com/watch?v=mIcKzBhQNZM)-Hi everyone! In this video, I talk about all the tools and features someone new to Figma needs to understand to start designing with the tool
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
