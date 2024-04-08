@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/gladstone28/suite-landing-FM)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://gladstone28.github.io/suite-landing-FM/)
 
 ## My process
 
