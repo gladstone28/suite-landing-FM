@@ -76,7 +76,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Example resource 1: Getting started with Figma: A beginner's guide](https://www.youtube.com/watch?v=eZJOSK4gXl4) - This helped me to understand Figma. Please watch.
 - [Example resource 2:Master Figma UI Design in 15 Minutes | This Tutorial Is For You!](https://www.youtube.com/watch?v=uQsyobT2Rv8&t=302s) - Z. I'd recommend this to anyone still learning this concept.
 - [Example resource 3:Learn Figma in 2024 | Beginner tutorial](https://www.youtube.com/watch?v=mIcKzBhQNZM)-Hi everyone! In this video, I talk about all the tools and features someone new to Figma needs to understand to start designing with the tool
-
+- [Example resource 4:Figma Tutorial for Beginners (2024): Website Design](https://www.youtube.com/watch?v=clSHs94hNNc)-In this beginner-friendly lesson, you will get a crash course in Figma for web designers.
 
 ## Author
 
