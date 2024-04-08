@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/gladstone28/suite-landing-FM)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -80,7 +80,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Github - [@gladstone28]()
+- Github - [@gladstone28](https://github.com/gladstone28/suite-landing-FM)
 - Frontend Mentor - [@gladstone28](https://www.frontendmentor.io/profile/gladstone28)
 - Twitter - [@gladdyus](https://www.twitter.com/gladdyus)
 
